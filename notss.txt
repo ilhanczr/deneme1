@@ -1,2 +1,3 @@
 Hat 1
 hat 2
+Line 3
